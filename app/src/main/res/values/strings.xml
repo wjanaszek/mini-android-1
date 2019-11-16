@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MINI PROJEKT 1</string>
+    <string name="options">Opcje</string>
+    <string name="shop_list">Lista zakupów</string>
+    <string name="title_activity_shop_list">Lista zakupów</string>
+    <string name="default_background_color">#00574B</string>
+    <string name="default_text_color">#FFFFFF</string>
+    <string name="options_change_text_color">Zmień kolor tekstu</string>
+    <string name="cancel">Cofnij</string>
+    <string name="options_change_color_confirm">Zmień kolor</string>
+    <string name="options_change_color_dialog_title">Zmiana koloru tekstu</string>
+    <string name="options_text_color">Kolor tekstu</string>
+    <string name="options_change_text_size_label">Wielkość tekstu</string>
+    <string name="options_text_size">Wpisz wielkość tekstu w px</string>
+    <string name="options_color_header">Kolory w aplikacji</string>
+    <string name="options_change_buttons_background">Zmień tło przycisków</string>
+    <string name="options_change_buttons_background_title">Zmiana koloru tła przycisków</string>
+    <string name="options_reset_colors">Reset kolorów</string>
+    <string name="options_save_text_size">Zmień</string>
+
+    <!-- SHARED PREFERENCES KEYS -->
+    <string name="sp">sp</string>
+    <string name="sp_button_background">button_background</string>
+    <string name="sp_text_color">text_color</string>
+    <string name="sp_text_size">text_size</string>
+
+    <!-- TOAST -->
+    <string name="toast_saved">Zapisano!</string>
+    <string name="toast_validation_to_small">Podano za małą wartość. Min.: </string>
+    <string name="toast_validation_to_big">Podano za dużą wartość. Maks.: </string>
+    <string name="toast_validation_not_an_integer">Wartość powinna być liczbą całkowitą</string>
+    <string name="toast_validation_unknown">Wystąpił nieznany błąd</string>
+    <string name="toast_product_updated">Zaktualizowano!</string>
+    <string name="toast_product_added">Dodano produkt!</string>
+
+    <!-- VALIDATION -->
+    <string name="validation_to_small">Minimalna wartość: </string>
+    <string name="validation_to_big">Maksymalna wartość: </string>
+    <string name="validation_not_an_integer">Wartość nie jest liczbą całkowitą</string>
+
+    <!-- PRODUCT DIALOG -->
+    <string name="product_dialog_add_header">Dodawanie produktu</string>
+    <string name="product_dialog_edit_header">Edytowanie produktu</string>
+    <string name="product_dialog_add_button">Dodaj produkt</string>
+    <string name="product_dialog_update_button">Aktualizuj produkt</string>
+    <string name="product_dialog_add_name">Nazwa:</string>
+    <string name="product_dialog_add_price">Cena:</string>
+    <string name="product_dialog_add_quanity">Ilość:</string>
+    <string name="product_dialog_add_bought">Kupione?</string>
+
+    <string name="product_dialog_delete">Usuwanie produktu</string>
+    <string name="product_dialog_delete_message">Czy na pewno chcesz usunąć ten produkt z listy?</string>
+    <string name="product_dialog_delete_submit">Usuń produkt</string>
+
+    <!-- PRODUCT -->
+    <string name="product_quanity">Ilość:</string>
+    <string name="product_price">Cena:</string>
+    <string name="product_id">product_id</string>
+
+    <!-- PRODUCT LIST -->
+    <string name="product_edit_button">Edytuj</string>
+    <string name="product_remove_button">Usuń</string>
+
+    <!-- VALIDATION -->
+    <string name="validation_required">Wymagane</string>
+    <string name="validation_invalid_number">Niepoprawna wartość</string>
+    <string name="validation_max_10000">Maksymalna wartość to 10 000</string>
+    <string name="validation_min_1">Minimalna wartość to 1</string>
+    <string name="validation_min_0_01">Minimalna wartość to 0.01</string>
+    <string name="validation_min_15">Minimalna wartość to 15</string>
+
+    <string name="database_name">database_name</string>
+    <string name="product_list_item_added">product_list_item_added</string>
+    <string name="product_list_item_updated">product_list_item_updated</string>
+    <string name="options_reset_text_size">Reset</string>
+    <string name="option_reseted">Ustawienia zresetowane!</string>
+    <string name="options_color_changed">Kolor zmieniony!</string>
+</resources>
