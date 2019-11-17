@@ -155,6 +155,7 @@ public class OptionsActivity extends AppCompatActivity implements Validator.Vali
             .apply();
         Toast.makeText(this, getString(R.string.option_reseted), Toast.LENGTH_SHORT).show();
         setDefaultTextSizeInEditText();
+        refreshActivityFromPreferences();
     }
 
     public void onSaveTextSizeClick(View view) {
